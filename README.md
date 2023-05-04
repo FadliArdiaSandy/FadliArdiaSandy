@@ -1,9 +1,18 @@
 # Hi there, I'm Fadli - aka [FadliArdiaSandy](https://https://www.youtube.com/@fadliardians) 👋
-## About me:
-- 🔭 I’m currently working at [Huawei](https://www.huawei.com/en/?ic_medium=direct&ic_source=surlent)
+## Profile:
+I am Fadli Ardia Sandy, graduated from Informatics Engineering, University of PGRI Semarang in
+2022. I understand Graphic and Network Design. I have an interest in a career in the IT Support
+field because I know about hardware and software troubleshooting since I was at SMK Kesuma
+majoring in computer network engineering. now I work freelance as a graphic design, copywriter
+and social media management. I’m currently learning Python and Javascript, Ask me about anything
+How to reach me: 
+
+fadliworker666@gmail.com || https://www.linkedin.com/in/fadliardiasandy/ || 
+
+- 🔭 I’m currently working at [Desainku](https://www.huawei.com/en/?ic_medium=direct&ic_source=surlent)
 - 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Data Analyst
-- 🤔 I’m looking for suggest for Automation and Data Analyst
+- 👯 I’m looking to collaborate as IT Support
+- 🤔 I’m looking for suggest for Graphic and Data Analyst
 - 💬 Ask me about anything
 - 📫 How to reach me: vincentwidyan@gmail.com
 
