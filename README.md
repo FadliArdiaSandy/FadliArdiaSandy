@@ -7,33 +7,40 @@ majoring in computer network engineering. now I work freelance as a graphic desi
 and social media management. I’m currently learning Python and Javascript, Ask me about anything
 How to reach me: 
 
-fadliworker666@gmail.com || https://www.linkedin.com/in/fadliardiasandy/ || 
+fadliworker666@gmail.com || https://www.linkedin.com/in/fadliardiasandy/ || https://github.com/FadliArdiaSandy
 
-- 🔭 I’m currently working at [Desainku](https://www.huawei.com/en/?ic_medium=direct&ic_source=surlent)
-- 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as IT Support
-- 🤔 I’m looking for suggest for Graphic and Data Analyst
-- 💬 Ask me about anything
-- 📫 How to reach me: vincentwidyan@gmail.com
 
 ## Education:
 
-#### 1. [Universitas Gadjah Mada](https://www.ugm.ac.id) | Bachelor of Electrical Engineering | Yogyakarta `2016-2020`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
- #### 2. [SMA N 1 Kebumen](https://www.sman1kebumen.sch.id) | MIPA | Kebumen `2013-2016`
-   - Chief of Rohkris
+#### 1. [Universitas PGRI Semarang](https://upgris.ac.id/) | Bachelor of Informatics | Semarang `2018-2022`
+  - Participated in the 2018 Informatics Student Association General Conference as Decoration &
+    Documentation Section.
+  - The staff of the Advocacy Department of the 2020 Faculty of Informatics Student Executive
+    Body
+  - Head of the Organizational Artistic division at Gitar Suara Mahasiswa
+  
+ #### 2. [SMK Kesuma Margoyoso](https://www.smkkesumamargoyoso.sch.id/) | Computer Network Engineering | Pati `2015-2018`
+  - Elected as a member of OSIS 2016
+  - Participated as a Handphone Operations Member with the guidance counseling teacher
+
+
+## Internship Experience:
+#### 1. [PDAM Tirta Bening](https://www.pdam-pati.com/) | Account Data Processing Staff | Pati `Dec'2020 - Jun`2020
+   - Fully responsible for checking nominal water discharge and customer administration.
+   - Perform network checks and peripheral maintenance in each PDAM branch.
 
 ## Work Experience:
-#### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
-   - Create Automation using Python and VBA Excel for day-to-day routine
-#### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
-   - Manage to update CAD of distribution lines using AutoCAD
-   - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
+#### 1. [Tungku Bumi ](https://www.instagram.com/tungkubumi/?hl=id) | Waiter | Semarang `Jul'2018 - Nov`2018
+   - Arrange the table neatly and make sure the equipment is available to the cutlery needed.
+   - Provide seating recommendations according to customer needs, whether they come in groups or alone.
+   - Provide favorite menu recommendations when customers feel confused and deliver customer orders.
+   - Cleaning the restaurant area, especially the dining table.
+   -
+#### 2. [Noms Kopi](https://portal.pln.co.id) | Cashier | Semarang `Jan'2019 - May`2019
+   - Manage customer transactions
+   - Collects various types of payments
+   - Maintain a clean and tidy checkout area
+   - Resolving customer complaints
 ---
 
 ### Languages and Tools:
