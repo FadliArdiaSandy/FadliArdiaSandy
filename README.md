@@ -3,7 +3,7 @@
 I am Fadli Ardia Sandy, graduated from Informatics Engineering, University of PGRI Semarang in
 2022. I understand Graphic and Network Design. I have an interest in a career in the IT Support
 field because I know about hardware and software troubleshooting since I was at SMK Kesuma
-majoring in computer network engineering. now I work freelance as a graphic design, copywriter
+majoring in computer network engineering. Now I work freelance as a graphic design, copywriter
 and social media management. I’m currently learning Python and Javascript.
 
 fadliworker666@gmail.com 
