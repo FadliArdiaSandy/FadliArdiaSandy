@@ -45,7 +45,7 @@ fadliworker666@gmail.com || https://www.linkedin.com/in/fadliardiasandy/ || http
 
 ### Languages and Tools:
 
-[<img align="left" alt="XD" width="30px" src="https://img.icons8.com/?size=1x&id=4VVL78edhbW9&format=png;" />][webdev]
+[<img align="left" alt="XD" width="30px" src="https://img.icons8.com/?size=512&id=4VVL78edhbW9&format=png;" />][webdev]
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/220px-PyCharm_Icon.svg.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
