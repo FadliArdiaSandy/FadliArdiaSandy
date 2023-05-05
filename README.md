@@ -77,7 +77,9 @@ fadliworker666@gmail.com || https://www.linkedin.com/in/fadliardiasandy/ || http
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/xchikooo_#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/xchikooo_#gh-dark-mode-only)
-
+&nbsp;&nbsp;
+[![website](./img/Gmail-light.svg)](fadliworker666@gmail.com#gh-light-mode-only)
+[![website](./img/Gmail-dark.svg)](fadliworker666@gmail.com#gh-dark-mode-only)
 
 
 [webdev]: https://github.com/FadliArdiaSandy
