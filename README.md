@@ -4,8 +4,7 @@ I am Fadli Ardia Sandy, graduated from Informatics Engineering, University of PG
 2022. I understand Graphic and Network Design. I have an interest in a career in the IT Support
 field because I know about hardware and software troubleshooting since I was at SMK Kesuma
 majoring in computer network engineering. now I work freelance as a graphic design, copywriter
-and social media management. I’m currently learning Python and Javascript, Ask me about anything
-How to reach me: 
+and social media management. I’m currently learning Python and Javascript.
 
 fadliworker666@gmail.com || https://www.linkedin.com/in/fadliardiasandy/ || https://github.com/FadliArdiaSandy
 
@@ -67,18 +66,18 @@ fadliworker666@gmail.com || https://www.linkedin.com/in/fadliardiasandy/ || http
 ---
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://https://www.youtube.com/@fadliardians#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://https://www.youtube.com/@fadliardians#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/Dinocaulusss?t=BmT1Xxyxx0zd_ypSnPEOpA&s=09#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/Dinocaulusss?t=BmT1Xxyxx0zd_ypSnPEOpA&s=09#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/fadliardiasandy/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/fadliardiasandy#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/xchikooo_#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/xchikooo_#gh-dark-mode-only)
 
 
 
-[webdev]: https://github.com/vincentwidyan/vincentwidyan
+[webdev]: https://github.com/FadliArdiaSandy
