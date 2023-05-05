@@ -6,7 +6,7 @@ field because I know about hardware and software troubleshooting since I was at 
 majoring in computer network engineering. now I work freelance as a graphic design, copywriter
 and social media management. I’m currently learning Python and Javascript.
 
-fadliworker666@gmail.com || https://www.linkedin.com/in/fadliardiasandy/ || https://github.com/FadliArdiaSandy
+fadliworker666@gmail.com 
 
 
 ## Education:
@@ -77,9 +77,7 @@ fadliworker666@gmail.com || https://www.linkedin.com/in/fadliardiasandy/ || http
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/xchikooo_#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/xchikooo_#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/Gmail-light.svg)](fadliworker666@gmail.com#gh-light-mode-only)
-[![website](./img/Gmail-dark.svg)](fadliworker666@gmail.com#gh-dark-mode-only)
+
 
 
 [webdev]: https://github.com/FadliArdiaSandy
