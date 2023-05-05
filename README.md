@@ -35,7 +35,7 @@ fadliworker666@gmail.com || https://www.linkedin.com/in/fadliardiasandy/ || http
    - Provide seating recommendations according to customer needs, whether they come in groups or alone.
    - Provide favorite menu recommendations when customers feel confused and deliver customer orders.
    - Cleaning the restaurant area, especially the dining table.
-   -
+   
 #### 2. [Noms Kopi](https://portal.pln.co.id) | Cashier | Semarang `Jan'2019 - May`2019
    - Manage customer transactions
    - Collects various types of payments
