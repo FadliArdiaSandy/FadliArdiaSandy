@@ -25,7 +25,7 @@ fadliworker666@gmail.com || https://www.linkedin.com/in/fadliardiasandy/ || http
 
 
 ## Internship Experience:
-#### 1. [PDAM Tirta Bening](https://www.pdam-pati.com/) | Account Data Processing Staff | Pati `Dec'2020 - Jun`2020
+#### 1. [PDAM Tirta Bening](https://www.pdam-pati.com/) | Account Data Processing Staff | Pati `May'2020 - Jun`2020
    - Fully responsible for checking nominal water discharge and customer administration.
    - Perform network checks and peripheral maintenance in each PDAM branch.
 
@@ -54,7 +54,7 @@ fadliworker666@gmail.com || https://www.linkedin.com/in/fadliardiasandy/ || http
 [<img align="left" alt="AI" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Corel Draw" width="30px" src="https://seeklogo.com/images/C/coreldraw-x7-logo-747B0DC253-seeklogo.com.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="HTML" width="30px" src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="PHP" width="30px" src="https://www.clipartmax.com/png/middle/71-719076_php-php-logo-png.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="PHP" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/PHP_Logo%2C_text_only.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="CSS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Photoshop" width="30px" src="https://logos-world.net/wp-content/uploads/2020/11/Adobe-Photoshop-Logo-2019-2020.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Lightroom" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/2101px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" style="padding-right:10px;" />][webdev]
