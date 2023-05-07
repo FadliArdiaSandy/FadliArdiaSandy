@@ -24,7 +24,7 @@ fadliworker666@gmail.com
 
 
 ## Internship Experience:
-#### 1. [PDAM Tirta Bening](https://www.pdam-pati.com/) | Account Data Processing Staff | Pati `May'2020 - Jun`2020
+#### 1. [PDAM Tirta Bening](https://www.pdam-pati.com/) | Account Data Processing Staff | Pati `May'2022 - Jun`2022
    - Fully responsible for checking nominal water discharge and customer administration.
    - Perform network checks and peripheral maintenance in each PDAM branch.
 
