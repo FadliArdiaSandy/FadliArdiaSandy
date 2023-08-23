@@ -40,6 +40,11 @@ fadliworker666@gmail.com
    - Collects various types of payments
    - Maintain a clean and tidy checkout area
    - Resolving customer complaints
+
+#### 3. [PT. Rajawali Perkasa Furniture](https://www.rajawali-perkasa.co.id/) | IT Suppot | Semarang `Jan'2019 - May`2019
+   - Manage the internet network
+   - Troubleshooting Hardware & Software
+   - Ubuntu Server Maintenance
 ---
 
 ### Languages and Tools:
