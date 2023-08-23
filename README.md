@@ -41,7 +41,7 @@ fadliworker666@gmail.com
    - Maintain a clean and tidy checkout area
    - Resolving customer complaints
 
-#### 3. [PT. Rajawali Perkasa Furniture](https://www.rajawali-perkasa.co.id/) | IT Suppot | Semarang `Jan'2019 - May`2019
+#### 3. [PT. Rajawali Perkasa Furniture](https://www.rajawali-perkasa.co.id/) | IT Suppot | Semarang `Jan'2023 - August`2023
    - Manage the internet network
    - Troubleshooting Hardware & Software
    - Ubuntu Server Maintenance
