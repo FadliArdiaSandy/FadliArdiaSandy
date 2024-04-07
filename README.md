@@ -78,8 +78,8 @@ fadliworker666@gmail.com
 [![website](./img/linkedin-light.svg)](http://www.linkedin.com/in/fadli-ardia-sandy-6a48b3296/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](http://www.linkedin.com/in/fadli-ardia-sandy-6a48b3296#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/xchikooo_#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/xchikooo_#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/fadliardians_#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/fadliardians_#gh-dark-mode-only)
 
 
 
