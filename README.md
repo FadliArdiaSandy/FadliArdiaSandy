@@ -75,8 +75,8 @@ fadliworker666@gmail.com
 [![website](./img/twitter-light.svg)](https://twitter.com/Dinocaulusss?t=BmT1Xxyxx0zd_ypSnPEOpA&s=09#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/Dinocaulusss?t=BmT1Xxyxx0zd_ypSnPEOpA&s=09#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/fadliardiasandy/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/fadliardiasandy#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](http://www.linkedin.com/in/fadli-ardia-sandy-6a48b3296/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](http://www.linkedin.com/in/fadli-ardia-sandy-6a48b3296#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/xchikooo_#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/xchikooo_#gh-dark-mode-only)
