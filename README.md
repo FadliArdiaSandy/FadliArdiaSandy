@@ -51,7 +51,7 @@ fadliworker666@gmail.com
 
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Figma" width="30px" src="https://assets.asana.biz/transform/ba9b63a3-f255-4088-b5fe-14ab4628f50b/logo-app-figma" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Microsoft" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Microsoft_PowerPoint_2013-2019_logo.svg/846px-Microsoft_PowerPoint_2013-2019_logo.svg.png](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31)" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Microsoft" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Microsoft_PowerPoint_2013-2019_logo.svg/846px-Microsoft_PowerPoint_2013-2019_logo.svg.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="XD" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="AI" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Corel Draw" width="30px" src="https://seeklogo.com/images/C/coreldraw-x7-logo-747B0DC253-seeklogo.com.png" style="padding-right:10px;" />][webdev]
